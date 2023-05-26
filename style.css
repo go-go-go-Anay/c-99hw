@@ -1,0 +1,57 @@
+.background{
+    background-color: aquamarine;
+}
+
+#notice
+{
+    color: darkred;
+    font-weight: bold;
+    font-size: 25px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#im1
+{
+    height: 200px;
+    width: 300px;
+    margin-bottom: 10px;
+
+    
+    
+}
+
+#im2
+{
+    height: 200px;
+    width: 300px;
+    margin-bottom: 10px;
+
+}
+
+#im3
+{
+    height: 200px;
+    width: 300px;
+}
+
+#footer{
+    text-align: center;
+    font-size: 20px;
+    font-family: cursive;
+    width: 100%;
+    background-color: darkgray;
+}
+
+#header{
+    font-weight: bold;
+    font-family: cursive;
+    font-size: 40px;
+}
+
+#camera{
+    border-width: 3px;
+    border-color: black;
+    border-style: dashed;
+    width:300px;
+    height:250px;
+}
